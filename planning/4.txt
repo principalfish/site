@@ -1,0 +1,12 @@
+sqlite
+
+polls
+	regions
+	company
+	polls
+
+
+seats 
+	maps - map_id
+	seat_geodata - seat_geo_id, map_id, coordinates, name? - uk seats, uk new seats, uk council, scottish parl, usa, france...etc
+	seat_info - year (2019_uk, 2016_brexit, model..etc) , map_id,  electorate, voting info
