@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+data/data.db
+data/backups/*
+data/remove_backups.sh
+
+
