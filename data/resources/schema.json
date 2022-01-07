@@ -1,0 +1,37 @@
+{
+  "tables": [
+    {
+      "name": "maps",
+      "columns": [
+        {
+          "name": "name",
+          "type": "TEXT"
+        },
+        {
+          "name": "type",
+          "type": "TEXT"
+        },
+        { 
+          "name": "object_type",
+          "type": "TEXT"
+        },
+        {
+          "name": "translate_lat",
+          "type": "REAL"
+        },
+        {
+          "name": "translate_long",
+          "type": "REAL"
+        },
+        {
+          "name": "scale_x",
+          "type": "REAL"
+        },
+        {
+          "name": "scale_y",
+          "type": "REAL"
+        }
+      ]
+    }
+  ]
+}
