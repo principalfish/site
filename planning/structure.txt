@@ -1,0 +1,16 @@
+front 
+	html / css 
+	js 
+	d3js
+	URL requests
+
+data
+		database
+		python scripts for interacting with database 
+
+back 
+	database - copy of ?
+		
+	node js - dealing with requests
+		creates jobs -
+		js scripts for interacting with database
